@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Mateo (Teo) 👋
 
-<!--
-**technologybyteo/TechnologyByTeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at Universidad de La Sabana,
+exploring two areas I believe will define the next wave of technology:
+**Generative AI applied to autonomous agents** and **Cybersecurity**.
 
-Here are some ideas to get you started:
+## 🤖 What I'm working on
+- Exploring how AI systems can be orchestrated to automate real workflows
+- Building foundations in cybersecurity — understanding how systems
+  can be attacked, defended, and made resilient
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's talk
+- 💼 [LinkedIn](https://www.linkedin.com/in/technologybyteo)
+- 📩 technologybyteo@gmail.com
